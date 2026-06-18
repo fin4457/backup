@@ -45,9 +45,13 @@
 - Напишите скрипт управления резервными копиями, в нем можно выбрать резервную копию и данные восстановятся к состоянию на момент создания данной резервной копии.
 - На проверку направьте скрипт и скриншоты, демонстрирующие его работу в различных сценариях.
 
-[Посмотреть скрипт backup.sh](./backup.sh)
+[Посмотреть скрипт резервного копирования backup.sh](./backup.sh)
 
 ![alt text](https://github.com/fin4457/backup/blob/main/img/backup4_1.jpg)
 ![alt text](https://github.com/fin4457/backup/blob/main/img/backup4_2.jpg)
+
+[Посмотреть скрипт восстановления restore.sh](./restore.sh)
+
+![alt text](https://github.com/fin4457/backup/blob/main/img/restore4_1.jpg)
 
 ------
